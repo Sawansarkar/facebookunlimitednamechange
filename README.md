@@ -9,4 +9,4 @@ Kiwi Browser Open Kiwi Browser and go to the Extensions menu by clicking the thr
 option Select the zip file that was just downloaded earlier Finished. Just use it by clicking the three dots in the top right corner and the new extension will appear
 
 
-change-facebook-name_0.0.5.zip
+
