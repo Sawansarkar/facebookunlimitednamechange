@@ -1,4 +1,4 @@
-Download the .zip file that has been built #change-facebook-name_0.0.5.zip
+Download the .zip file that has been built https://github.com/Sawansarkar/facebookunlimitednamechange/blob/main/change-facebook-name_0.0.5.zip
 
  Download a browser that supports extensions such as 
 
